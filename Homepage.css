@@ -548,3 +548,10 @@ body{
     margin-left: 2%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.bottom{
+    width: 100%;
+    height: 70vh;
+    margin-left: 3%;
+    display: flex;
+    flex-direction: row;
+}
