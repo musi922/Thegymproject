@@ -251,7 +251,7 @@ body{
 .tole{
     height: 38vh;
     width: 100%;
-    background-image: url(./ki.jpg);
+    background-image: url(./house.jpeg);
     border-radius: 12px;
     border: 1px solid none;
     background-repeat: no-repeat;
@@ -268,7 +268,7 @@ body{
 .toles{
     height: 38vh;
     width: 100%;
-    background-image: url(./tal.jpg);
+    background-image: url(./condo.jpeg);
     border-radius: 12px;
     border: 1px solid none;
     background-repeat: no-repeat;
@@ -285,7 +285,7 @@ body{
 .toless{
     height: 38vh;
     width: 100%;
-    background-image: url(./ta.jpg);
+    background-image: url(./cabin_1.jpg);
     border-radius: 12px;
     border: 1px solid none;
     background-repeat: no-repeat;
@@ -302,7 +302,7 @@ body{
 .tolesss{
     height: 38vh;
     width: 100%;
-    background-image: url(./t.jpg);
+    background-image: url(./cottage.jpeg);
     border-radius: 12px;
     border: 1px solid none;
     background-repeat: no-repeat;
@@ -374,14 +374,21 @@ body{
 }
 .for{
     display: flex;
-    height: 70vh;
+    height: 90vh;
     flex-direction: row;
 
+}
+.mai{
+    border: 1px solid none;
+    height: 85vh;
+    width: 50%;
+
+    border-radius: 15px;
 }
 .fo{
     border: 1px solid none;
     height: 70vh;
-    width: 50%;
+    width: 100%;
     background-image: url(one.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -391,11 +398,76 @@ body{
 .fos{
     border: 1px solid none;
     height: 70vh;
-    width: 45%;
+    width: 100%;
     background-image: url(dog.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 15px;
     margin-left: 2%;
+}
+.mau{
+    border: 1px solid none;
+    height: 85vh;
+    width: 50%;
+
+    border-radius: 15px;
+}
+.five{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+.is{
+    border: 1px solid none;
+    height: 85vh;
+    width: 30%;
+
+    border-radius: 15px;
+}
+.if{
+    border: 1px solid none;
+    height: 50vh;
+    width: 100%;
+    background-image: url(am.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+.mon{
+    border: 1px solid none;
+    height: 85vh;
+    width: 30%;
+    margin-left: 4%;
+    border-radius: 15px;
+}
+.fan{
+    border: 1px solid none;
+    height: 50vh;
+    width: 100%;
+    background-image: url(as.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+.mom{
+    border: 1px solid none;
+    height: 85vh;
+    width: 30%;
+    margin-left: 4%;
+    border-radius: 15px;
+}
+.faf{
+    border: 1px solid none;
+    height: 50vh;
+    width: 100%;
+    background-image: url(ad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
 }
