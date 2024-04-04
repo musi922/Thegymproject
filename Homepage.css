@@ -344,17 +344,28 @@ body{
     border-radius: 20px;
 }
 .over h1{
-    font-size: 50px;
+    font-size: 40px;
     width: 40%;
-
+    position: absolute;
+    margin-left: -64%;
     font-weight: bold;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.over p{
-    font-size: 10px;
-    margin-left: -25%;
-    margin-top: 12%;
-    width: 40%;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.over h2{
+    font-size: 16px;
+    margin-left: -65%;
+    margin-top: 22%;
+    position: absolute;
+    width: 30%;
+    font-family:'Times New Roman', Times, serif ;
+}
+.ric{
+    width: 27%;
+    height: 9vh;
+    border: 2px solid none;
+    background-color: rgb(6, 6, 56);
+    margin-left: -62%;
+    margin-top: 35%;
+    border-radius: 30px; 
 }
 
