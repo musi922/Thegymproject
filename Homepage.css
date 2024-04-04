@@ -46,7 +46,7 @@ body{
     height: 105vh;
     width: 100%;
     margin-top: 2%;
-    background-image: url(./da.jpg);
+    background-image: url(./bar.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -368,4 +368,34 @@ body{
     margin-top: 35%;
     border-radius: 30px; 
 }
+.fourth{
+    height: 80vh;
+    width: 100%;
+}
+.for{
+    display: flex;
+    height: 70vh;
+    flex-direction: row;
 
+}
+.fo{
+    border: 1px solid none;
+    height: 70vh;
+    width: 50%;
+    background-image: url(pp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+.fos{
+    border: 1px solid none;
+    height: 70vh;
+    width: 45%;
+    background-image: url(pp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    margin-left: 2%;
+}
