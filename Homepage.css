@@ -1,5 +1,78 @@
 
+  .toggle-button {
+    display: flex;
+  }
+  .toggle-button {
+    list-style: none;
+  }
+  .toggle-button {
+    flex-direction: column;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .bar {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+  }
+@media (max-width: 1030px) {
+    .toggle-button {
+      display: flex;
+    }
+  
+    .men {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .men li a {
+      text-align: center;
+    }
+  
+    .men.active {
+      display: flex;
+    }
+    .bar{
+        background-color: black;
+        margin-left: 70%;
+        margin-top: -2%;
+    }
+    .overlay h1{
+        font-size: 2px;
+        margin-top: -2%;
+        display: none;
+        
+    }
+    .bor .h2{
+        margin-left: -40%;
+        
+       
+    }
+    
+    .se{
+        display: none;
+    }
+    .over .ja{
+        font-size: 22px;
+        width: 100%;
+    }
+    .over .ja span{
+        display: none;
+    }
+    .over .ric{
+        margin-top: 50%;
+        padding: 2px;
+ 
+    }
+    .overs .h1{
+        font-size: 20px;
+        margin-left: -55%;
+    }
 
+  }
 body{
     padding: 0;
     overflow-x: hidden;
